@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Figueira</h1>
 <h3 align="center">A passionate fullstack developer from Portugal</h3>
 
-- 🎓 Education: Gratuated with a bachelor's degree in medicine from Nova Medical School in Lisbon.
+- 🎓 Education: Gratuated with a bachelor's degree in **medicine from Nova Medical School in Lisbon.**
 
 - 💻 Tech Passionate: I decided to leave my life as health student behind and dived headfirst into a fullstack development bootcamp at Code for All_.
   
