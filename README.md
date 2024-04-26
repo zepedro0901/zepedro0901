@@ -5,7 +5,7 @@
 
 - 🎓 Education: Gratuated with a bachelor's degree in medicine from Nova Medical School in Lisbon.
 
-- 💻 Tech Passionate:I decided to leave my life as health student behind and dived headfirst into a fullstack development bootcamp.
+- 💻 Tech Passionate: I decided to leave my life as health student behind and dived headfirst into a fullstack development bootcamp at Code for All_.
   
 - 🌱 I’m currently learning **React**
   
