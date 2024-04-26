@@ -11,7 +11,7 @@
   
 - 🌍Born and raised **in Madeira Island, I moved to Lisbon at 2018.**
 
-- 📫 How to reach me **zepedro0901@gmail.com**
+- 📫 You can reach me using **zepedro0901@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
