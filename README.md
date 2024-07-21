@@ -7,7 +7,7 @@
 
 - 💻 Tech Passionate: I decided to leave my life as health student behind and dived headfirst into a fullstack development bootcamp at Code for All_.
   
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Power Platforms**
   
 - 🌍Born and raised **in Madeira Island, I moved to Lisbon at 2018.**
 
