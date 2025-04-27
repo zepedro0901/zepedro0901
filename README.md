@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Pedro Figueira</h1>
 <h3 align="center">A passionate fullstack developer from Portugal</h3>
 
-- 🎓 Education: Gratuated with a bachelor's degree in **medicine from Nova Medical School in Lisbon.**
+- 🎓 Education: Gratuated with a bachelor's degree in **medicine from Nova Medical School in Lisbon** and **graduated from Code for All as a Full Stack Developer.**
 
 - 💻 Tech Passionate: I decided to leave my life as health student behind and dived headfirst into a fullstack development bootcamp at Code for All_.
   
-- 🌱 I’m currently learning **Power Platforms**
+- 🌱 I’m currently learning **Power Platforms**, 
   
 - 🌍Born and raised **in Madeira Island, I moved to Lisbon at 2018.**
 
