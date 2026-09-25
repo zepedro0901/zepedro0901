@@ -49,7 +49,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea" alt="Git, GitHub, IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea" alt="Git, GitHub,  IntelliJ IDEA" />
   <br/>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkNsYXVkZSBDb2RlPC90aXRsZT48cGF0aCBkPSJNMjEgMTAuNWgzdjNoLTN2M2gtMS41djNIMTh2LTNoLTEuNXYzSDE1di0zSDl2M0g3LjV2LTNINnYzSDQuNXYtM0gzdi0zSDB2LTNoM3YtNmgxOFptLTE1IDBoMS41di0zSDZabTEwLjUgMEgxOHYtM2gtMS41eiIvPjwvc3ZnPg==" alt="Claude Code" />
 </p>
