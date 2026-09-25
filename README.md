@@ -34,9 +34,8 @@
 
 <h3 align="left">Databases, Cloud & Deployment:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,vercel,cloudflare,azure" alt="MySQL, Vercel, Cloudflare, Azure" />
+  <img src="https://skillicons.dev/icons?i=mysql,vercel,cloudflare,azure" alt="MySQL, Vercel, Cloudflare" />
   <br/>
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
   <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare R2" />
 </p>
 
@@ -50,7 +49,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,idea" alt="Git, GitHub, Linux, IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea" alt="Git, GitHub, IntelliJ IDEA" />
   <br/>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
