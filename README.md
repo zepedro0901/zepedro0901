@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Figueira</h1>
-<h3 align="center">A full stack developer from Portugal</h3>
+<h3 align="center">A Power Platform developer from Portugal</h3>
 
-- 💼 **Currently:** Full Stack Developer at **KPMG Portugal**, building web applications, integrations and automation on the Microsoft Power Platform.
+- 💼 **Currently:** Power Platform at **KPMG Portugal**, building web applications, integrations and automation on the Microsoft Power Platform.
 
 - 🎓 **Education:** I started out in **medicine at Nova Medical School in Lisbon**, then **graduated from Code for All_ as a Full Stack Developer**, training in Java and object-oriented programming.
 
